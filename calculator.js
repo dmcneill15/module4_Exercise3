@@ -40,3 +40,7 @@ function calculateAnswer(num1,num2, operation){
         return answer;
     }
 }
+
+function add(num1, num2){
+    return (num1+num2);
+}
